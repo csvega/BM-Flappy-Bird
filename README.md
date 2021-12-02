@@ -13,5 +13,7 @@
 #### - X키 : 미사일 발사
 #### - Z키 : 2초간 무적, 1회 사용 가능
 
+## ※ 마우스와 키보드 혼용가능
+
 ### 3. 게임 실행
 #### - WebGL Build : https://csvega.github.io/BM-Flappy-Bird/
